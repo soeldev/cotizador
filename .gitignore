@@ -1,0 +1,17 @@
+# Dependencias (recomendacion de ChatGPT)
+node_modules/
+
+# Archivos de variable de desarrollo entorno (daguerre@gmail.com agrego)
+.env
+
+# Directorios de compilación (recomendacion de ChatGPT)
+dist/
+build/
+
+# Archivos temporales (recomendacion de ChatGPT)
+*.log
+*.temp
+
+# Archivos de configuración específicos del editor (recomendacion de ChatGPT)
+.vscode/
+.idea/
