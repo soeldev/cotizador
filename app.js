@@ -1,6 +1,6 @@
 require('dotenv').config();  // Busca la variable en .env (variables solo de desarollo)
 const port = process.env.PORT || 3000; // Busca la variable en .env (variables solo de desarollo)
-const aux = 1;
+const aux = 2;
 
 const express = require('express');
 const app = express();
